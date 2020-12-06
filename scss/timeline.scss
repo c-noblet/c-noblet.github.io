@@ -1,0 +1,28 @@
+.timeline {
+  padding: 0 !important;
+  margin: 0 !important;
+
+  li {
+    margin: 0 !important;
+    position: relative;
+    border-left: 2px solid #eaecef;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+
+    p {
+      margin: 0;
+    }
+
+    &::before {
+      position: absolute;
+      left: -0.5rem;
+      top: 5px;
+      content: '';
+      width: 9px;
+      height: 9px;
+      border: 3px solid #11998e;
+      background-color: #fff;
+      border-radius: 50%;
+    }
+  }
+}

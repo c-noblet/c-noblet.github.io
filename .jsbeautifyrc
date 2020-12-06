@@ -1,0 +1,10 @@
+{
+  "indent_char": " ",
+  "indent_size": 2,
+  "space_in_empty_paren": true,
+  "newline_between_rules": true,
+  "space_around_combinator": true,
+  "selector_separator_newline": false,
+  "end_with_newline": true,
+  "max_preserve_newlines": 2
+}

@@ -1,0 +1,27 @@
+main {
+  .cv {
+    .text {
+      border-left: 3px solid #11998e;
+      padding-left: 1rem;
+    }
+  }
+
+  .background {
+    @include laptop {
+      width: 65%;
+      padding-right: 1rem;
+    }
+  }
+
+  .skills {
+    @include laptop {
+      width: 35%;
+      padding-left: 1rem;
+    }
+
+    ul {
+      padding: 0 !important;
+      margin: 0 !important;
+    }
+  }
+}
