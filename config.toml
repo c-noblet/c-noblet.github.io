@@ -32,7 +32,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [languages.en]
     weight = 1
     # website title
-    title = "Corentin Noblet | Full Stack Engineer"
+    title = "Corentin Noblet | Full Stack Software Engineer"
     # language code ["en", "fr", "de"]
     languageCode = "en"
     # language name ["English", "Français", "Deutsch"]
@@ -49,9 +49,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  date format
       dateFormat = "02/01/2006"
       # website title for Open Graph and Twitter Cards
-      title = "Corentin Noblet | Full Stack Engineer"
+      title = "Corentin Noblet | Full Stack Software Engineer"
       # website description for RSS, SEO, Open Graph and Twitter Cards
-      description = "Full Stack Engineer, passionate about IT."
+      description = "Full Stack Software Engineer, passionate about IT."
       # website images for Open Graph and Twitter Cards
       images = ["/github-avatar.png"]
 
@@ -64,7 +64,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           # URL of avatar shown in home page
           avatarURL = "/github-avatar.png"
           #  title shown in home page (HTML format is supported)
-          title = "Full Stack Engineer<br><a href=\"https://wizards-technologies.com/\" target=\"_blank\">@Wizards Technologies</a> 🧙‍♂️"
+          title = "Full Stack Software Engineer<br><a href=\"https://wizards-technologies.com/\" target=\"_blank\">@Wizards Technologies</a> 🧙‍♂️"
           # subtitle shown in home page (HTML format is supported)
           subtitle = "Hi, I'm a Computer and Open source enthusiast<br>Here you will find projects and posts I make in my free time."
           # whether to use typeit animation for subtitle
